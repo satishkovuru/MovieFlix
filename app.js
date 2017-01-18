@@ -1,4 +1,4 @@
 function log(){
-console.log('this is the first log');
+console.log('Print this is the first log');
 }
 log();
